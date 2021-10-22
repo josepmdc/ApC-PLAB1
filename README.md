@@ -1,6 +1,6 @@
 # PLAB 1 ApC
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josepmdc/ApC-PLAB1)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josepmdc/ApC-PLAB1/blob/master/PLAB1.ipynb)
 
 ## [Database](https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo)
 
