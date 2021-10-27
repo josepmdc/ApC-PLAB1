@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## GPA205-0930: Beer Consumption - São Paulo
+# **GPA205-0930: Beer Consumption - São Paulo**
 # 
-# **Martin Kaplan**
+# **Martin Kaplan - NIU: 1607076**
 # 
-# **Josep Maria Domingo Catafal**
+# **Josep Maria Domingo Catafal - NIU: 1599946**
 # 
 # # Apartat (C): Analitzant Dades
 # El primer de tot que hem de fer és analitzar la base de dades. Per fer-ho ens ajudarem d'una sèrie de llibreries que ens permeten carregar i visualitzar les dades.
