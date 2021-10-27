@@ -161,7 +161,7 @@ dataset.head()
 
 
 plt.figure(figsize=(15, 5))
-plt.title("Beer consumption by months")
+plt.title("Beer consumption by days")
 ax = sns.boxplot(data=dataset, x = "day", y = "consumption_liters")
 plt.show()
 
